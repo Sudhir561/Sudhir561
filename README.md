@@ -2,4 +2,4 @@ I'm proficient in HTML5, CSS3, JavaScript (ES6), React, Firebase, Git, GitHub an
 
  I have done   JavaScript and React Development course  to further deepen my programming skills, and I'm currently working as a frontend engineer.
 
-🌱 I'm currently   React and React-native , and interested in TypeScript and GraphQL.
+🌱 I'm currently  in React and React-native , and interested in Mongodb and Node js.
